@@ -1,0 +1,25 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.header {
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+}
+
+.logo {
+    height: 20px;
+    width: 100px;
+    margin-top: 1rem;
+    vertical-align: middle;
+    margin-left: 3%;
+    text-decoration: none;
+    vertical-align: middle;
+    fill: #e50914;
+    display: inline-block;
+    line-height: 90px;
+}
